@@ -1,0 +1,3 @@
+/home/csgrads/kwagh001/template-lab-02-unit-integration-testing/CMakeFiles/rebuild_cache.dir
+/home/csgrads/kwagh001/template-lab-02-unit-integration-testing/CMakeFiles/edit_cache.dir
+/home/csgrads/kwagh001/template-lab-02-unit-integration-testing/CMakeFiles/c-echo.dir

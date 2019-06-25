@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csgrads/kwagh001/template-lab-02-unit-integration-testing/c-echo.h
+iostream
+-
+
+/home/csgrads/kwagh001/template-lab-02-unit-integration-testing/main.cpp
+c-echo.h
+/home/csgrads/kwagh001/template-lab-02-unit-integration-testing/c-echo.h
+
